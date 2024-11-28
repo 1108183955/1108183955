@@ -1,23 +1,23 @@
 criaCartao(
     '<i>Old School</i>',
-    'Entre Ronnie Coleman, Kevin Levrone e Arnold Schwarzenegger quem era mais forte?',
-    'O rei Coleman ganha esse título, conseguindo levantar impressionantemente mais de 1 TONELADA no leg press 45° e fazer agachamento livre com +360 KG!'
+    'Quais são as principais vantagens de se ter uma caminhonete?',
+    ' As caminhonetes oferecem maior capacidade de carga, versatilidade para diferentes tipos de terreno e robustez. Elas são ideais para quem precisa transportar objetos grandes ou trabalhar em áreas rurais ou de difícil acesso, além de proporcionar mais conforto em viagens longas!'
 )
 
 criaCartao(
     '<i>Ursos de força</i>',
-    'Já pensou em fazer supino reto com 300KG?',
-    'O russo, Andrey Smaev, conhecido por sua força e tamanho de urso, conseguiu realizar 3 repetições com esse peso, uma marca impressionante no powerlifting. Esse feito coloca Smaev entre os atletas de elite no supino, sendo um exemplo de força brutal no esporte.'
+    'Caminhonetes consomem mais combustível que carros de passeio?',
+    '   Sim, as caminhonetes geralmente consomem mais combustível que carros de passeio devido ao seu tamanho maior e peso mais elevado. No entanto, o consumo depende do modelo, tipo de motor e da condução. Modelos mais modernos e eficientes podem ter desempenho de combustível mais próximo ao de carros menores.'
 )
 
 criaCartao(
     '<i>Aesthetic Inspiration</i>',
-    'Qual o nome do jovem mais estetico atual?',
-    'David Laid! Ele começou sendo um magro qualquer para um físico estético e bem definido, com suas postagens nas redes socias ele motiva vários a ter o shape'
+    'Quais são as melhores caminhonetes para uso off-road?',
+    '  Modelos como a Toyota Hilux, Ford Ranger e Jeep Gladiator são frequentemente citados como alguns dos melhores para uso off-road. Eles são projetados para enfrentar terrenos difíceis, com tração nas quatro rodas e suspensão reforçada.'
 )
 
 criaCartao(
     'Superação',
-    'Qual o homem que teve a maior superação de vida?',
-    'DAVID GOGGINS !!! É um ex-Navy SEAL, o único integrante das Forças Armadas dos Estados Unidos a ter concluído o treinamento das três principais tropas de elite, ultramaratonista e autor famoso por sua filosofia de superação mental e resistência extrema. Ele enfrentou uma infância difícil, mas se tornou um exemplo de resiliência ao alcançar conquistas físicas e psicológicas extraordinárias. Seu livro <i>Cant Hurt Me</i> e suas palestras motivacionais inspiram muitos a desafiar seus próprios limites. ~"<i>They dont know me son</i>"'
+    ' Caminhonetes são boas para o transporte de famílias?',
+    ' Sim, muitas caminhonetes, especialmente os modelos maiores como a Chevrolet Silverado ou a Ram 1500, oferecem espaço suficiente para transportar famílias, com bancos traseiros confortáveis e recursos modernos de segurança e entretenimento, tornando-as opções viáveis para quem precisa de mais espaço e potência.'
 )
