@@ -1,11 +1,12 @@
 :root {
-    --text-color: #080808;
-    --card-front-color: #ffc04b;
-    --border-color: #FF5733;
+    --text-color: #ffffff;
+    --card-front-color: #ff4b4b6e;
+    --border-color: #33e7ff;
 }
 
 body {
-    background: url(img/topgun.jpg);
+    background: url('img/RAM.jpeg') no-repeat center center;
+    background-size: cover;    
     font-family: Arial;
     color: var(--text-color);
     margin: 0;
